@@ -1,7 +1,7 @@
 <h2 align="center">
   Portfolio Website <br/> </h2>
 <div align="center">
-  <img src="./Images/demo.png">
+  <img src="images/demo.png">
 </div>
 
 <br/>
